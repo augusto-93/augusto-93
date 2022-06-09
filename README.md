@@ -30,5 +30,6 @@
   <a href="https://instagram.com/_augustof" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/junioaugustoferreira" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
- 
+![Snake animation](https://github.com/augusto-93/augusto-93/blob/main/.github/workflows/snake.yml)
+
 </div>
