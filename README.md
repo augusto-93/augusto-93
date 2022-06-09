@@ -1,7 +1,10 @@
 ### Olá! Eu sou o Augusto Ferreira! 👋
 
+##
+
 - 🔭 Designer Gráfico | Front-End Developer | 💬 HTML e CSS | 😄 he/him
 
+## 
 
 Formado em Comunicação Social - Publicidade e Propaganda, trabalho como Designer Gráfico e atualmente graduando em Engenharia de Software, tendo como conhecimento básico as linguagens de programação HTML, CSS, Python e C/C++.
 
@@ -9,8 +12,8 @@ Formado em Comunicação Social - Publicidade e Propaganda, trabalho como Design
 
 <div align="center">
   <a href="https://github.com/augusto-93">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=augusto-93&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=augusto-93&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=augusto-93&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=augusto-93&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
 ##
