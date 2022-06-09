@@ -1,13 +1,11 @@
-### Olá! Eu sou o Augusto! 👋
+### Olá! Eu sou o Augusto Ferreira! 👋
 
-- 🔭 I’m currently working on ... | - 🌱 I’m currently learning ...
+- 🔭 Designer Gráfico | Front-End Developer | 💬 HTML e CSS | 😄 he/him
 
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
+Formado em Comunicação Social - Publicidade e Propaganda, trabalho como Designer Gráfico e atualmente graduando em Engenharia de Software, tendo como conhecimento básico as linguagens de programação HTML, CSS, Python e C/C++.
+
+##
 
 <div align="center">
   <a href="https://github.com/augusto-93">
@@ -29,7 +27,5 @@
  <div align="center">   
   <a href="https://instagram.com/_augustof" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/junioaugustoferreira" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-![Snake animation](https://github.com/augusto-93/augusto-93/blob/main/.github/workflows/snake.yml)
 
 </div>
