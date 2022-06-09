@@ -2,7 +2,7 @@
 
 ##
 
-- 🔭 Designer Gráfico | Front-End Developer | 💬 HTML e CSS | 😄 he/him
+- 🔭 Designer Gráfico — Front-End Developer — 💬 HTML e CSS — 😄 he/him
 
 ## 
 
