@@ -6,7 +6,7 @@
 
 ## 
 
-Formado em Comunicação Social - Publicidade e Propaganda, trabalho como Designer Gráfico e atualmente graduando em Engenharia de Software, tendo como conhecimento básico as linguagens de programação HTML, CSS, Python e C/C++.
+Formado em Comunicação Social - Publicidade e Propaganda, trabalho como Designer Gráfico e atualmente graduando em Engenharia de Software, tendo como conhecimento básico as linguagens de programação HTML, CSS, JavaScript e Python.
 
 ##
 
